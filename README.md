@@ -10,9 +10,9 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-3.1-1c1a16?style=flat-square)](https://xgboost.readthedocs.io/)
 [![Deploy](https://img.shields.io/badge/Deployed%20on-Render-1c1a16?style=flat-square&logo=render&logoColor=white)](https://halo-cme-detection.onrender.com)
 
-[Live demo](https://halo-cme-detection.onrender.com) · [Methodology](#methodology) · [API](#api) · [Run locally](#run-locally)
+[Live demo](https://halo-cme-detection-8hmr.onrender.com) · [Methodology](#methodology) · [API](#api) · [Run locally](#run-locally)
 
-**Live at [halo-cme-detection.onrender.com](https://halo-cme-detection.onrender.com)** — hosted on Render's free tier, so the first request after idle may take ~30 s to wake.
+**Live at [halo-cme-detection.onrender.com](https://halo-cme-detection-8hmr.onrender.com)** 
 
 </div>
 
