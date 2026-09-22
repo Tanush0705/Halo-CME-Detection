@@ -114,7 +114,7 @@ POST /api/predict        multipart/form-data, field "file" (.csv)
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/Arnav020/Halo-CME-Detection.git
+git clone https://github.com/Tanush0705/Halo-CME-Detection
 cd Halo-CME-Detection
 
 python -m venv venv
