@@ -8,11 +8,11 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.141-1c1a16?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.7-1c1a16?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-3.1-1c1a16?style=flat-square)](https://xgboost.readthedocs.io/)
-[![Deploy](https://img.shields.io/badge/Deployed%20on-Render-1c1a16?style=flat-square&logo=render&logoColor=white)](https://halo-cme-detection.onrender.com)
+[![Deploy](https://img.shields.io/badge/Deployed%20on-Render-1c1a16?style=flat-square&logo=render&logoColor=white)](https://halo-cme-detection-8hmr.onrender.com)
 
 [Live demo](https://halo-cme-detection-8hmr.onrender.com) · [Methodology](#methodology) · [API](#api) · [Run locally](#run-locally)
 
-**Live at [halo-cme-detection.onrender.com](https://halo-cme-detection-8hmr.onrender.com)** 
+**Live at [halo-cme-detection-8hmr.onrender.com](https://halo-cme-detection-8hmr.onrender.com)** 
 
 </div>
 
