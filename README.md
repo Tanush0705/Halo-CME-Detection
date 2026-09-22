@@ -154,5 +154,5 @@ Open http://127.0.0.1:8000 and either upload a CSV or click **Load a sample SWIS
 
 ## Authors
 
-**Arnav Joshi** · **Pulkit Garg**
+**Arnav Joshi** · **Tanush Mehra**
 B.Tech Computer Science & Engineering, Thapar Institute of Engineering & Technology
